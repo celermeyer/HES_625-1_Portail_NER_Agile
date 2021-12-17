@@ -14,8 +14,8 @@ export default function Homepage() {
 
     // Sample data
     const data = [
-        {name: 'Hydraulique au fil de l eau', value: 14269, kw:"GWh"},
-        {name: 'Nouvelles Energies Renouvelables', value: 4800, kw:"GWh"},
+        {name: 'Hydraulique au fil de l\'eau', value: 14269, kw:"GWh"},
+        {name: 'Nouvelles énergies renouvelables', value: 4800, kw:"GWh"},
         {name: 'Hydraulique à accumulation', value: 17329, kw:"GWh"},
     ];
 
